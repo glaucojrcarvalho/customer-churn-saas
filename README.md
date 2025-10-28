@@ -29,6 +29,13 @@ docker build -t churn-api .
 docker run -p 8000:8000 churn-api
 ```
 
+### Using pre-built image from GitHub Container Registry
+
+```bash
+docker pull ghcr.io/glaucojrcarvalho/customer-churn-saas:latest
+docker run -p 8000:8000 ghcr.io/glaucojrcarvalho/customer-churn-saas:latest
+```
+
 ## Example requests
 
 ### Predict (single)
