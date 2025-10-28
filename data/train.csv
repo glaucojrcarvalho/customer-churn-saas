@@ -1,0 +1,8 @@
+state,account_length,area_code,international_plan,voice_mail_plan,number_vmail_messages,total_day_minutes,total_day_calls,total_day_charge,total_eve_minutes,total_eve_calls,total_eve_charge,total_night_minutes,total_night_calls,total_night_charge,total_intl_minutes,total_intl_calls,total_intl_charge,number_customer_service_calls,churn
+CA,85,area_code_408,yes,no,0,260.0,70,44.2,190.2,80,16.17,175.5,90,7.9,22.1,7,5.97,4,yes
+NJ,137,area_code_415,no,no,0,243.4,114,41.38,120.3,110,10.23,162.6,104,7.32,12.2,5,3.29,0,no
+NY,98,area_code_408,yes,no,0,120.2,85,20.43,210.0,95,17.85,190.1,75,8.55,18.4,5,4.97,4,yes
+OH,103,area_code_408,no,yes,29,294.7,95,50.1,200.1,105,17.01,300.3,127,13.51,13.7,6,3.7,1,no
+TX,112,area_code_510,yes,no,0,280.3,120,47.65,210.7,140,17.9,180.9,98,8.14,20.3,6,5.48,5,yes
+NM,99,area_code_415,no,no,0,216.8,123,36.86,190.4,88,10.74,220.6,82,9.93,15.7,2,4.24,1,no
+KS,128,area_code_415,no,yes,25,265.1,110,45.07,230.5,99,16.78,244.7,91,11.01,10.0,3,2.7,1,no
